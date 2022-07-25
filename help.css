@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    font-size:40px;
+    color: rgb(18, 14, 13);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+}
+#problem{
+    height: 50px;
+    width: 300px;
+    border-radius: 2cm;
+    background-color: rgb(161, 194, 212);
+    
+    
+
+}
+.hello{
+    text-align:center;
+    font-size: larger;
+    
+   
+}
+#submiit{
+    height: 20px;
+    width: 100px;
+}
+.bg{
+    background-image:url(https://wallup.net/wp-content/uploads/2019/05/10/302237-sunset-mountains-ocean-landscapes-nature-travel-hdr-photography-blue-skies-skies-cloud.jpg);
+    background-size: 100%;
+    
+    
+}
+
+
+    
